@@ -2,6 +2,8 @@
 
 You can sign up [here](https://whitehallhighschool.github.io/people.meet.paws/).
 
+![Image](src:dogg.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
