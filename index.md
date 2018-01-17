@@ -2,6 +2,7 @@
 
 You can sign up [here](https://whitehallhighschool.github.io/people.meet.paws/).
 
+![dog](dogg.jpg)
 
 ### Markdown
 
