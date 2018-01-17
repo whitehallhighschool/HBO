@@ -1,6 +1,6 @@
-## Welcome People Meet Paws!🐾
+## Welcome to People Meet Paws!🐾
 
-You can sign up [here]()!
+You can sign up [here](https://whitehallhighschool.github.io/people.meet.paws/)!
 
 ### Markdown
 
