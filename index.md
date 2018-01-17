@@ -4,19 +4,8 @@ You can sign up [here](https://whitehallhighschool.github.io/people.meet.paws/).
 
 ![dog](dogg.jpg)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+### About Us
+People Meet Paws was created by two high school students from Whitehall High School. Our purpose of creating this website was to bring people together through their dogs.
 
 1. Numbered
 2. List
